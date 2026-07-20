@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>The Chat</title>
+        <item>
+            <title>1.3</title>
+            <pubDate>Mon, 20 Jul 2026 00:00:14 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026071903</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.3/TheChat-1.3.dmg" length="4286462" type="application/octet-stream" sparkle:edSignature="ky38CyI3sIeoWa//NXJ8eXamxCO48NEqbMoGiSx16z0L6yXXsDi7nNp1g2Z8brUZvH7oBN7iXwDc+L4Pdnb+DA=="/>
+        </item>
+        <item>
+            <title>1.2</title>
+            <pubDate>Sun, 19 Jul 2026 23:44:03 -0600</pubDate>
+            <link>https://gainware.io/thechat</link>
+            <sparkle:version>2026071902</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.2/TheChat-1.2.dmg" length="4286415" type="application/octet-stream" sparkle:edSignature="4O0EqBgEaTpWjyxcswohSD7mTZexowU61zFQkzmk0iBTsdBSMxh9PeRT9B05+PeRISBI7jhrwTeyOLNsqKQ5CQ=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 19 Jul 2026 02:09:58 -0600</pubDate>
+            <link>https://gainware.io/thechat</link>
+            <sparkle:version>2026071901</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.1/TheChat-1.1.dmg" length="4276394" type="application/octet-stream" sparkle:edSignature="pgwx0NWIm3pHwNf6RyEF7QS2SaeboPsF7RrHL61ffugiBbKfhVcsjBSRd5XfnrKp3HuYMU6LNP74FsNag3xDAw=="/>
+        </item>
+    </channel>
+</rss>
