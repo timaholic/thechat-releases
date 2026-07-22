@@ -3,6 +3,15 @@
     <channel>
         <title>The Chat</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Wed, 22 Jul 2026 04:02:21 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026072202</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.4/GainwareChat-0.2.4.dmg" length="4426303" type="application/octet-stream" sparkle:edSignature="t2hhRjyfDT2PUQ7ctQ7DiCQrLYXnLdKVN+Bwpkgy4HGAoC8alBcw8gvXIE/5wIQGvaZFH+yTCW/vvdoaTDDCBg=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Wed, 22 Jul 2026 00:45:47 -0600</pubDate>
             <link>https://github.com/timaholic/thechat-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.2/GainwareChat-0.2.2.dmg" length="4409445" type="application/octet-stream" sparkle:edSignature="fjmsXnpU1ids5SIJS7ByjYRQQmTeAoIGOf9Iz9C/G9Uo7Mx9fbTeDzcrUWLJHrsGs+BIum9wvZvGmXoTl5AsCQ=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Tue, 21 Jul 2026 18:04:25 -0600</pubDate>
-            <link>https://github.com/timaholic/thechat-releases/releases</link>
-            <sparkle:version>2026072102</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.1/GainwareChat-0.2.1.dmg" length="4421667" type="application/octet-stream" sparkle:edSignature="hlNsxos/par/eEz7qIXbkmI2NZiYmBfS95LVzOcnlAMSTheW74/eFiHjE0MOa9X/RIu9exlkMdLHwvoZ+c+nCw=="/>
         </item>
     </channel>
 </rss>
