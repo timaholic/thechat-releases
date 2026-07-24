@@ -3,6 +3,15 @@
     <channel>
         <title>The Chat</title>
         <item>
+            <title>0.2.12</title>
+            <pubDate>Thu, 23 Jul 2026 23:11:41 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026072404</sparkle:version>
+            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.12/GainwareChat-0.2.12.dmg" length="4360243" type="application/octet-stream" sparkle:edSignature="AOk01KHsrOpPdBagDpGk6Gu/VvFKKDuRVE0FQVwdTQ9+yO5nhLF2WuTceUIGvwJWAY2KYuRPRX+CQLJD87IHAw=="/>
+        </item>
+        <item>
             <title>0.2.11</title>
             <pubDate>Thu, 23 Jul 2026 22:52:24 -0600</pubDate>
             <link>https://github.com/timaholic/thechat-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.10/GainwareChat-0.2.10.dmg" length="4346746" type="application/octet-stream" sparkle:edSignature="TFcfIS4xstCJLxrhYLYpIvN2rQ+qdxfKQzUdbUh353Zbs/2Wz4F70qg3QgchlyA5RG+NbPn0ADs6NEdefg+gCA=="/>
-        </item>
-        <item>
-            <title>0.2.9</title>
-            <pubDate>Thu, 23 Jul 2026 20:37:47 -0600</pubDate>
-            <link>https://github.com/timaholic/thechat-releases/releases</link>
-            <sparkle:version>2026072401</sparkle:version>
-            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.9/GainwareChat-0.2.9.dmg" length="4346481" type="application/octet-stream" sparkle:edSignature="2bWAhVH5ciqd1EenNL4g5QqNW+xy3I/xkF2ob2FgLOaZ8/FuOq3+SUlMt0zxpJwdQq05SDdBDO4rTnlb6abNAg=="/>
         </item>
     </channel>
 </rss>
