@@ -3,6 +3,15 @@
     <channel>
         <title>The Chat</title>
         <item>
+            <title>0.2.13</title>
+            <pubDate>Thu, 23 Jul 2026 23:27:28 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026072405</sparkle:version>
+            <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.13/GainwareChat-0.2.13.dmg" length="4362622" type="application/octet-stream" sparkle:edSignature="9+ECYN9rKEfWqx2pvqrfFKjuAtqmI/Ucjzzs48yur+mcSbxwTi5YVJtErl7F+OQ/XOXeheGTEpS3xtDj1FvvAg=="/>
+        </item>
+        <item>
             <title>0.2.12</title>
             <pubDate>Thu, 23 Jul 2026 23:11:41 -0600</pubDate>
             <link>https://github.com/timaholic/thechat-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.11/GainwareChat-0.2.11.dmg" length="4351152" type="application/octet-stream" sparkle:edSignature="LPAaJct1TTwMunOW0ZfQ8KWEbCZhdc/Ag9RTaNiUhq4A6dhjy0tWt0OIh+lTYbruMvM30Dlp10I1tixn2WlUCw=="/>
-        </item>
-        <item>
-            <title>0.2.10</title>
-            <pubDate>Thu, 23 Jul 2026 22:38:01 -0600</pubDate>
-            <link>https://github.com/timaholic/thechat-releases/releases</link>
-            <sparkle:version>2026072402</sparkle:version>
-            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.10/GainwareChat-0.2.10.dmg" length="4346746" type="application/octet-stream" sparkle:edSignature="TFcfIS4xstCJLxrhYLYpIvN2rQ+qdxfKQzUdbUh353Zbs/2Wz4F70qg3QgchlyA5RG+NbPn0ADs6NEdefg+gCA=="/>
         </item>
     </channel>
 </rss>
