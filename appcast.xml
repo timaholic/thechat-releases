@@ -3,6 +3,15 @@
     <channel>
         <title>The Chat</title>
         <item>
+            <title>0.2.10</title>
+            <pubDate>Thu, 23 Jul 2026 22:38:01 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026072402</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.10/GainwareChat-0.2.10.dmg" length="4346746" type="application/octet-stream" sparkle:edSignature="TFcfIS4xstCJLxrhYLYpIvN2rQ+qdxfKQzUdbUh353Zbs/2Wz4F70qg3QgchlyA5RG+NbPn0ADs6NEdefg+gCA=="/>
+        </item>
+        <item>
             <title>0.2.9</title>
             <pubDate>Thu, 23 Jul 2026 20:37:47 -0600</pubDate>
             <link>https://github.com/timaholic/thechat-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.8/GainwareChat-0.2.8.dmg" length="4342261" type="application/octet-stream" sparkle:edSignature="2wt+CjL5Fmd/SqBGszbeCB0tj5jiVF41j2XzH2DsBzXXYWtJsyPTJKvQxRuA9yHb0zpPmQtzdNWi6FS6jhH/Aw=="/>
-        </item>
-        <item>
-            <title>0.2.7</title>
-            <pubDate>Thu, 23 Jul 2026 02:22:51 -0600</pubDate>
-            <link>https://github.com/timaholic/thechat-releases/releases</link>
-            <sparkle:version>2026072301</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v0.2.7/GainwareChat-0.2.7.dmg" length="4448111" type="application/octet-stream" sparkle:edSignature="egdQqLMk0nh3Y7URzdJ4meK37G5C6hGtd6MAXouR152/N0IytsHuw+VagYpllyI+4fG0hzbBABUY9riKusgGAQ=="/>
         </item>
     </channel>
 </rss>
