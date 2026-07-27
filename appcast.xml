@@ -3,6 +3,15 @@
     <channel>
         <title>The Chat</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Sun, 26 Jul 2026 23:55:49 -0600</pubDate>
+            <link>https://github.com/timaholic/thechat-releases/releases</link>
+            <sparkle:version>2026072604</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.0.4/GainwareChat-1.0.4.dmg" length="4380527" type="application/octet-stream" sparkle:edSignature="N+bWHNE+tn5DyIcX2YeRFL9QXUaeUDd7kgdhuJjnHtF3w+0d272MAoiwpamzgccOlBdjRcpUPjg+CGkJJBhQBA=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sun, 26 Jul 2026 22:52:56 -0600</pubDate>
             <link>https://github.com/timaholic/thechat-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.0.2/GainwareChat-1.0.2.dmg" length="4367843" type="application/octet-stream" sparkle:edSignature="NnGKIoMlcbadJBKRI+8jAqfSUpT4k+r581az3g/i/BsPBsXcXpcpVEC2ZHzIzOpztl4F0LlmUEdzH/8g+pK4Aw=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sun, 26 Jul 2026 19:36:53 -0600</pubDate>
-            <link>https://github.com/timaholic/thechat-releases/releases</link>
-            <sparkle:version>2026072601</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/timaholic/thechat-releases/releases/download/v1.0.1/GainwareChat-1.0.1.dmg" length="4367631" type="application/octet-stream" sparkle:edSignature="QrIuHEiVmBjMkOgUUCHE+QdMu+wlRgDg5E3p6tuE+IEZmBbkYcWK5Hciq3mztad0ZzT3ewUr+aEJkhBLAVMnBQ=="/>
         </item>
     </channel>
 </rss>
