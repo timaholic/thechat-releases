@@ -28,4 +28,4 @@ If the app's behavior ever changes in a way that affects privacy, this policy wi
 
 ## Contact
 
-Questions about privacy: **automatedmx@gmail.com**
+Questions about privacy: **hello@gainware.io**

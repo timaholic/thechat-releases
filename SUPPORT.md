@@ -30,4 +30,4 @@ No. Transcription is on-device and only the text travels — and only over your 
 
 ## Contact
 
-**automatedmx@gmail.com** — include your app version (shown in Settings) and what you were doing when the problem happened.
+**hello@gainware.io** — include your app version (shown in Settings) and what you were doing when the problem happened.
